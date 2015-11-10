@@ -1,0 +1,22 @@
+{
+  "name": "ghost-dom",
+  "version": "1.0.0",
+  "description": "Simple hooks that allow running mocha tests that leverage the window.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icirellik/ghost-dom.git"
+  },
+  "author": "Cameron Rollheiser <icirellik@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/icirellik/ghost-dom/issues"
+  },
+  "homepage": "https://github.com/icirellik/ghost-dom#readme",
+  "dependencies": {
+    "jsdom": "^7.0.2"
+  }
+}
